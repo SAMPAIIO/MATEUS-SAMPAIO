@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&family=Raleway:wght@200;300&family=Roboto:ital,wght@0,300;1,100&family=Yellowtail&display=swap');
+body{
+  background-color: rgba(108, 179, 221, 0.63);
+}
+h1{
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+a{
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: rgb(0, 32, 90);
+  transition: 0.9s;
+}
+a:hover{
+  color: rgb(233, 16, 16);
+}
+p{
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+h2{
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+tr{
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+iframe{
+  border-radius: 10px 0px;
+}
